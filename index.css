@@ -1,0 +1,54 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.background{
+    background: hsla(197, 100%, 63%, 1);
+  
+  background: linear-gradient(45deg, hsla(197, 100%, 63%, 1) 25%, hsla(294, 100%, 55%, 1) 83%);
+  
+  background: -moz-linear-gradient(45deg, hsla(197, 100%, 63%, 1) 25%, hsla(294, 100%, 55%, 1) 83%);
+  
+  background: -webkit-linear-gradient(45deg, hsla(197, 100%, 63%, 1) 25%, hsla(294, 100%, 55%, 1) 83%);
+  
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#40C9FF", endColorstr="#E81CFF", GradientType=1 );
+    text-align: center;
+    height: 20rem;
+    width: 40rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .background>h1{
+    font-size: 2rem;
+  }
+  .app {
+    color: lime;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8em;
+    font-size: 1.3rem;
+  }
+  
+  .app input {
+    width: 100%;
+    padding: 0.4em;
+    height: 1.5rem;
+    border-radius: .3rem;
+    border: none;
+    outline: none;
+  }
+  
+  .app button {
+    width: 90%;
+    padding: 0.4em;
+    cursor: pointer;
+    margin-left: 1rem;
+    border-radius: .2rem;
+    border: none;
+    outline: none;
+  }
+  
