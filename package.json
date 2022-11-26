@@ -1,0 +1,22 @@
+{
+  "name": "challenge-one",
+  "version": "1.0.0",
+  "description": "a code to grade students according to the range of which they lie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevembugua/code-challenge-one.git"
+  },
+  "keywords": [
+    "challeng-1"
+  ],
+  "author": "steve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevembugua/code-challenge-one/issues"
+  },
+  "homepage": "https://github.com/stevembugua/code-challenge-one#readme"
+}
