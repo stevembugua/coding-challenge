@@ -1,0 +1,19 @@
+{
+  "name": "challenge-two",
+  "version": "1.0.0",
+  "description": "is to check the speed of a driver whwther is safe for driving or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/stevembugua/coding-challenge/tree/challenge-2"
+  },
+  "keywords": [
+    "challenge",
+    "two"
+  ],
+  "author": "steve",
+  "license": "ISC"
+}
