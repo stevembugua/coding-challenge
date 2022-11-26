@@ -1,0 +1,18 @@
+{
+  "name": "challenge-three",
+  "version": "1.0.0",
+  "description": "is a code used to calculate the net salary ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/stevembugua/coding-challenge/tree/challenge-3"
+  },
+  "keywords": [
+    "challenge-3"
+  ],
+  "author": "steve",
+  "license": "ISC"
+}
