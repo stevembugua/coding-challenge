@@ -6,5 +6,5 @@ DESCRIPTION.
 PROJECT SETUP.
   It takes the whole salary and removes the deductions and returns the net salary.
   
-  AUTHOR:Steve mbugua
-  LICENCE:"ISC"
+  AUTHOR:Steve mbugua.
+  LICENCE:"ISC".
