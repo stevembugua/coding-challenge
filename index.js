@@ -17,7 +17,7 @@ const speedDetector = (speed) => {
     alert("ok");
     //returns a point is speed is above the required by 5km/h
   } else {
-    alert("points: " + (speed - 70) / 5);
+    alert("points: " + Math.round((speed - 70) / 5));
   }else{
     alert("Invalid speed.Input is from 0km/h")
 };
