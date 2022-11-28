@@ -6,6 +6,7 @@ submitSpeed.addEventListener("click",()=>{
 });
 
 const speedDetector = (speed) => {
+  //makes sure speed does not go below zero
   if(!(speed<0)){
     //checks if speed is above 12points
   if ((speed - 70) / 5 > 12) {
