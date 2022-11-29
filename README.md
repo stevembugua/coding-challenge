@@ -9,9 +9,6 @@ PROJECT SETUP.
   To run the program just open it in your default browser by 
     -right click on the index.html file 
     -A dropdown will appear and select the option open with default browser
-
-AUTHOR:Steve mbugua
-LICENCE:"ISC"
   
   AUTHOR:Steve mbugua.
   LICENCE:"ISC".
