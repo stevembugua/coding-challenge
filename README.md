@@ -12,6 +12,10 @@ Title:GRADING SYSTEM TOOL.
     It then assigns a grade according to the range at which it lies.
     The html file is basically used as a skeleton and contais an <input> and a button.
     The CSS is basically used to apply some styling to the page
+    
+    To run the program just open it in your default browser by 
+        -right click on the index.html file 
+        -A dropdown will appear and select the option open with default browser
 
     AUTHOR:Steve mbugua
     LICENCE:"ISC"
