@@ -6,6 +6,13 @@ TITLE:SPEED CHECK.
   PROJECT SETUP.
     So the max speed one should move at is 70km/h if by any chance the driver exceeds that by an interval of 5km/h he is assigned a point of warning,by say if he gets to     75km/h theres an alert to assign a point to signify warning ,if he gets to 80km/h he is assigned 2points by surpassing the required speed by 10km/h.
     If the driver exceeds a max of 12 points the licence of the certain  driver is suspended due to overspeeding 
+    
+    To run the program just open it in your default browser by 
+    -right click on the index.html file 
+    -A dropdown will appear and select the option open with default browser
+
+AUTHOR:Steve mbugua
+LICENCE:"ISC"
    
     AUTHOR:Steve mbugua.
     LICENCE:"ISC".
