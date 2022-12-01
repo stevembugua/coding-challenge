@@ -16,10 +16,10 @@ const calculateStudentGrade = (grade) => {
     } else if (grade >= 60 && grade <= 79) {
       alert("B-");
      //if grade is greater or equal to 49 and less or equal to 59
-    } else if (grade >= 49 && grade <= 59) {
+    } else if (grade >= 50 && grade <= 59) {
       alert("C-");
     //if grade is greater or equal to 40 and less or equal to 49 
-    } else if (grade >= 40 && grade < 49) {
+    } else if (grade >= 40 && grade <= 49) {
       alert("D-");
     //if grade is less than 40
     } else if (grade < 40) {
